@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import { MetaMaskProvider } from "metamask-react";
+// jlkasfd
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
